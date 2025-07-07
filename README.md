@@ -1,4 +1,4 @@
-# CV Lab Assessment - Image Segmentation and Contour Detection
+# Image Segmentation and Contour Detection for microplastics
 
 This project performs advanced image segmentation and contour detection on a set of test images using OpenCV and related Python libraries. It is designed for computer vision lab assessments and includes automated evaluation against ground truth data.
 
